@@ -1,12 +1,12 @@
-Hello I'm Ceren Tanrıseven👋
-Here are some ideas to get you started:
+### Merhaba, ben Ceren Tanrıseven 👋
 
--🔭 I’m currently student at Necmettşn Erbakan University.
--🌱 I use php as a backend developer
--👯 I use canva web designs
--🤔 I’m looking for help with php and Javascript
--💬 Ask me about Front-end and Back-end developer
--📫 How to reach me: Linkedln /ceren-tanrıseven
+- 🔭 Şu anda Necmettin Erbakan Üniversitesi'nde öğrenciyim.
+- 🌱 Backend geliştirici olarak PHP kullanıyorum.
+- 👯 Canva ile web tasarımı yapıyorum.
+- 🤔 PHP ve JavaScript konusunda yardıma ihtiyacım var.
+- 💬 Front-end ve Back-end geliştirme hakkında bana sorular sorabilirsiniz.
+- 📫 Bana ulaşmak için: LinkedIn [ceren-tanrıseven](https://www.linkedin.com/in/ceren-tanrıseven)
+
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=cereneteneresevene&show_icons=true&theme=radical)
 
