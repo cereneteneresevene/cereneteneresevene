@@ -7,3 +7,6 @@ Here are some ideas to get you started:
 🤔 I’m looking for help with php and Javascript
 💬 Ask me about Front-end and Back-end developer
 📫 How to reach me: Linkedln /ceren-tanrıseven
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
+
