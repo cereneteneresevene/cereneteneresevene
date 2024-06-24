@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @cereneteneresevene
-- 👀 I’m interested in game software
+Hello I'm Ceren Tanrıseven👋
+Here are some ideas to get you started:
 
-
-<!---
-cereneteneresevene/cereneteneresevene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 I’m currently student at Necmettşn Erbakan University.
+🌱 I use php as a backend developer
+👯 I use canva web designs
+🤔 I’m looking for help with php and Javascript
+💬 Ask me about Front-end and Back-end developer
+📫 How to reach me: Linkedln /ceren-tanrıseven
